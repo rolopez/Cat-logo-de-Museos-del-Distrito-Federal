@@ -15,4 +15,4 @@ Aspectos a considerar:
 -Se utilizó Swing para la parte gráfica.
 -Es recomendable trabajarlo en Netbeans, ya que ya trae incluida la librería Swing destinada a la parte gráfica.
 
- Para ver cómo iba quedando la parte gráfica al estar creando el programa y ver el programa ejecutándose, revisar el documento adjunto en la parte de Issues de esta página.
+ Para ver cómo iba quedando la parte gráfica (en capturas de pantalla) al estar creando el programa y ver el programa ejecutándose, revisar el documento adjunto en la parte de Issues de esta página.
